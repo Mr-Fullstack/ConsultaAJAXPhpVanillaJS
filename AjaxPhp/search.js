@@ -1,6 +1,6 @@
 /* global method */
 
-var form = document.getElementById("form-search");
+//var form = document.getElementById("form-search");
 
 function search(text){
 		   
